@@ -1,6 +1,6 @@
 import { Alert } from 'react-native';
 
-const WEATHER_API_KEY = '1ff7e4c47ab065373f86440e0fca2cfa';
+const WEATHER_API_KEY = 'ae36e6a976e64dbe9ba105510231605';
 
 // URLs and EndPoint
 const weatherBaseUrl = 'https://api.weatherapi.com/v1/forecast.json?key=' + WEATHER_API_KEY;

@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFE142"
-      }
+      },
+      "package": "com.jobanp.weatherSnap"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1b9c3218-56bd-488f-8f5e-4137aaa7debe"
+      }
     }
   }
 }
